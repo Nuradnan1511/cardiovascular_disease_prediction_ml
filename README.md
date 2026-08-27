@@ -6,8 +6,6 @@ This project develops a machine learning system to predict the presence of cardi
 
 Multiple supervised machine learning algorithms were trained and evaluated, and hyperparameter tuning was performed to improve the performance of the selected model.
 
-A Streamlit web application was also developed to allow users to enter patient information and receive a machine learning prediction.
-
 ---
 
 ## Objectives
