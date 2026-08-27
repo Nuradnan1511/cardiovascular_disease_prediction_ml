@@ -139,7 +139,7 @@ The application automatically calculates engineered features and generates a pre
 
 ## Project Pipeline
 
-
+```text
 Kaggle Dataset
       ↓
 Data Cleaning & Preprocessing
