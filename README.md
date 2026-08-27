@@ -6,6 +6,8 @@ This project develops a machine learning system to predict the presence of cardi
 
 Multiple supervised machine learning algorithms were trained and evaluated, and hyperparameter tuning was performed to improve the performance of the selected model.
 
+🚀 **[Live Demo](https://cardiovasculardiseasepredictionml-nqdhgzxkmt5gense3scmbf.streamlit.app/)**
+---
 ---
 
 ## Objectives
@@ -134,19 +136,30 @@ The application automatically calculates engineered features and generates a pre
 
 ---
 
-## Project Structure
 
-```text
-Cardiovascular-Disease-Prediction/
-│
-├── models/
-│   ├── cardiovascular_disease_model.pkl
-│   └── feature_columns.pkl
-│
-├── notebooks/
-│   └── cardiovascular_disease_prediction.ipynb
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+## Project Pipeline
+
+
+Kaggle Dataset
+      ↓
+Data Cleaning & Preprocessing
+      ↓
+Exploratory Data Analysis
+      ↓
+Feature Engineering
+      ↓
+Train-Test Split & Scaling
+      ↓
+Train 6 ML Classification Models
+      ↓
+Model Evaluation & Comparison
+      ↓
+Hyperparameter Tuning
+      ↓
+Select Best Model
+      ↓
+Save Trained Model
+      ↓
+Build Streamlit Application
+      ↓
+Deploy to Streamlit Cloud
