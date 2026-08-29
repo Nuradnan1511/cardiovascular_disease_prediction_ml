@@ -6,7 +6,8 @@ This project develops a machine learning system to predict the presence of cardi
 
 Multiple supervised machine learning algorithms were trained and evaluated, and hyperparameter tuning was performed to improve the performance of the selected model.
 
-🚀 **[Live Demo](https://prediction-cardiovascular-disease.streamlit.app/)**
+🚀 **[Live Demo](https://cardiovascular-disease-prediction2.streamlit.app/)**
+
 
 ---
 
